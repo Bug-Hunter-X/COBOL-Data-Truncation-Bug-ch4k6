@@ -1,0 +1,1 @@
+This repository contains a simple COBOL program that illustrates a common data truncation error. The program moves a string from one variable to another of a smaller size, resulting in data loss. A solution is provided that addresses the truncation issue by ensuring the receiving field is large enough to accommodate the source data.
